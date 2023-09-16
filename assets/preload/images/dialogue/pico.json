@@ -1,0 +1,77 @@
+{
+	"dialogue_pos": "left",
+	"position": [
+		-740,
+		-800
+	],
+	"no_antialiasing": false,
+	"scale": 0.349999999999999,
+	"animations": [
+		{
+			"loop_name": "normal",
+			"idle_offsets": [
+				0,
+				0
+			],
+			"idle_name": "normal",
+			"anim": "normal",
+			"loop_offsets": [
+				0,
+				0
+			]
+		},
+		{
+			"loop_name": "bruh",
+			"idle_offsets": [
+				0,
+				0
+			],
+			"idle_name": "bruh",
+			"anim": "bruh",
+			"loop_offsets": [
+				0,
+				0
+			]
+		},
+		{
+			"loop_name": "frown",
+			"idle_offsets": [
+				0,
+				0
+			],
+			"idle_name": "frown",
+			"anim": "frown",
+			"loop_offsets": [
+				0,
+				0
+			]
+		},
+		{
+			"loop_name": "pissed",
+			"idle_offsets": [
+				0,
+				0
+			],
+			"idle_name": "pissed",
+			"anim": "pissed",
+			"loop_offsets": [
+				0,
+				0
+			]
+		},
+		{
+			"loop_name": "surprised",
+			"idle_offsets": [
+				0,
+				0
+			],
+			"idle_name": "surprised",
+			"anim": "surprised",
+			"loop_offsets": [
+				0,
+				0
+			]
+		}
+	],
+	"image": "pico"
+}
