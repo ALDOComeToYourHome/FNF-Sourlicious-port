@@ -1,0 +1,105 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				-153,
+				159
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "bf up",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-90,
+				70
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "bf down",
+			"indices": []
+		},
+		{
+			"offsets": [
+				0,
+				170
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "danceRight",
+			"indices": [
+				0,
+				1,
+				2,
+				3,
+				4,
+				5,
+				6
+			],
+			"name": "bf idle instance 1"
+		},
+		{
+			"offsets": [
+				0,
+				170
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "danceLeft",
+			"indices": [
+				7,
+				8,
+				9,
+				10,
+				11,
+				12,
+				13
+			],
+			"name": "bf idle instance 1"
+		},
+		{
+			"offsets": [
+				-100,
+				70
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "bf left"
+		},
+		{
+			"offsets": [
+				-45,
+				82
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "bf right"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/feggetbf",
+	"position": [
+		0,
+		300
+	],
+	"healthicon": "beeeff",
+	"flip_x": true,
+	"healthbar_colors": [
+		0,
+		84,
+		198
+	],
+	"camera_position": [
+		110,
+		-70
+	],
+	"sing_duration": 4,
+	"scale": 1
+}

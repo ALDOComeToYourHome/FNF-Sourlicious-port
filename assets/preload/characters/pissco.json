@@ -1,0 +1,99 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				0,
+				170
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "pico idle"
+		},
+		{
+			"offsets": [
+				15,
+				142
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "left"
+		},
+		{
+			"offsets": [
+				-138,
+				144
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "right"
+		},
+		{
+			"offsets": [
+				-133,
+				199
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "up"
+		},
+		{
+			"offsets": [
+				-70,
+				80
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "down"
+		},
+		{
+			"offsets": [
+				0,
+				170
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "idle-loop",
+			"indices": [
+				6,
+				7,
+				8,
+				9,
+				10,
+				11,
+				12,
+				13,
+				14
+			],
+			"name": "pico idle instance 1"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/feggetpico",
+	"position": [
+		0,
+		300
+	],
+	"healthicon": "pissco",
+	"flip_x": false,
+	"healthbar_colors": [
+		0,
+		111,
+		99
+	],
+	"camera_position": [
+		220,
+		-110
+	],
+	"sing_duration": 4,
+	"scale": 1
+}

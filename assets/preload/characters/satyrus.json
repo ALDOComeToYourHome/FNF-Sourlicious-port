@@ -1,0 +1,89 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				5,
+				-118
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "sat idle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				161,
+				-139
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "sat left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-7,
+				-117
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "sat right",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				40,
+				-130
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "sat down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				30,
+				-70
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "sat up",
+			"indices": []
+		},
+		{
+			"offsets": [
+				52,
+				-88
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "laugh",
+			"loop": false,
+			"name": "sat laugh"
+		}
+	],
+	"no_antialiasing": true,
+	"image": "characters/satyrusboob",
+	"position": [
+		0,
+		100
+	],
+	"healthicon": "sour-king",
+	"flip_x": false,
+	"healthbar_colors": [
+		255,
+		206,
+		59
+	],
+	"camera_position": [
+		200,
+		110
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}

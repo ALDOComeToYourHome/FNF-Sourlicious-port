@@ -1,0 +1,56 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				97,
+				231
+			],
+			"anim": "firstDeath",
+			"fps": 24,
+			"name": "bf dies fr",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				92,
+				40
+			],
+			"anim": "deathConfirm",
+			"fps": 24,
+			"name": "bf death confirm",
+			"indices": []
+		},
+		{
+			"loop": true,
+			"offsets": [
+				79,
+				39
+			],
+			"anim": "deathLoop",
+			"fps": 24,
+			"name": "bf death loop",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/sourbf_dead",
+	"position": [
+		-80,
+		400
+	],
+	"healthicon": "bf",
+	"flip_x": true,
+	"healthbar_colors": [
+		49,
+		176,
+		209
+	],
+	"camera_position": [
+		0,
+		0
+	],
+	"sing_duration": 4,
+	"scale": 1
+}
