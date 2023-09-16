@@ -1,0 +1,60 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="feggetpico.png">
+	<!-- Created with Adobe Animate version 21.0.5.40714 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="down instance 10000" x="4" y="4" width="539" height="448" frameX="0" frameY="-21" frameWidth="539" frameHeight="470"/>
+	<SubTexture name="down instance 10001" x="543" y="4" width="539" height="448" frameX="0" frameY="-21" frameWidth="539" frameHeight="470"/>
+	<SubTexture name="down instance 10002" x="1082" y="4" width="515" height="470" frameX="-13" frameY="0" frameWidth="539" frameHeight="470"/>
+	<SubTexture name="down instance 10003" x="1597" y="4" width="515" height="470" frameX="-13" frameY="0" frameWidth="539" frameHeight="470"/>
+	<SubTexture name="down instance 10004" x="2112" y="4" width="515" height="470" frameX="-13" frameY="0" frameWidth="539" frameHeight="470"/>
+	<SubTexture name="down instance 10005" x="2627" y="4" width="515" height="470" frameX="-13" frameY="0" frameWidth="539" frameHeight="470"/>
+	<SubTexture name="down instance 10006" x="3142" y="4" width="515" height="470" frameX="-13" frameY="0" frameWidth="539" frameHeight="470"/>
+	<SubTexture name="down instance 10007" x="3657" y="4" width="515" height="470" frameX="-13" frameY="0" frameWidth="539" frameHeight="470"/>
+	<SubTexture name="down instance 10008" x="4172" y="4" width="515" height="470" frameX="-13" frameY="0" frameWidth="539" frameHeight="470"/>
+	<SubTexture name="down instance 10009" x="4687" y="4" width="515" height="470" frameX="-13" frameY="0" frameWidth="539" frameHeight="470"/>
+	<SubTexture name="left instance 10000" x="5202" y="4" width="547" height="519" frameX="0" frameY="-14" frameWidth="585" frameHeight="533"/>
+	<SubTexture name="left instance 10001" x="5749" y="4" width="547" height="519" frameX="0" frameY="-14" frameWidth="585" frameHeight="533"/>
+	<SubTexture name="left instance 10002" x="6296" y="4" width="527" height="521" frameX="-52" frameY="0" frameWidth="585" frameHeight="533"/>
+	<SubTexture name="left instance 10003" x="6823" y="4" width="527" height="521" frameX="-52" frameY="0" frameWidth="585" frameHeight="533"/>
+	<SubTexture name="left instance 10004" x="7350" y="4" width="524" height="521" frameX="-61" frameY="0" frameWidth="585" frameHeight="533"/>
+	<SubTexture name="left instance 10005" x="4" y="525" width="524" height="521" frameX="-61" frameY="0" frameWidth="585" frameHeight="533"/>
+	<SubTexture name="left instance 10006" x="528" y="525" width="524" height="521" frameX="-61" frameY="0" frameWidth="585" frameHeight="533"/>
+	<SubTexture name="left instance 10007" x="1052" y="525" width="524" height="521" frameX="-61" frameY="0" frameWidth="585" frameHeight="533"/>
+	<SubTexture name="left instance 10008" x="1576" y="525" width="524" height="521" frameX="-61" frameY="0" frameWidth="585" frameHeight="533"/>
+	<SubTexture name="left instance 10009" x="2100" y="525" width="524" height="521" frameX="-61" frameY="0" frameWidth="585" frameHeight="533"/>
+	<SubTexture name="pico idle instance 10000" x="2624" y="525" width="578" height="511" frameX="0" frameY="-34" frameWidth="578" frameHeight="546"/>
+	<SubTexture name="pico idle instance 10001" x="3202" y="525" width="578" height="511" frameX="0" frameY="-34" frameWidth="578" frameHeight="546"/>
+	<SubTexture name="pico idle instance 10002" x="3780" y="525" width="551" height="530" frameX="-17" frameY="-16" frameWidth="578" frameHeight="546"/>
+	<SubTexture name="pico idle instance 10003" x="4331" y="525" width="551" height="530" frameX="-17" frameY="-16" frameWidth="578" frameHeight="546"/>
+	<SubTexture name="pico idle instance 10004" x="4882" y="525" width="523" height="542" frameX="-34" frameY="-4" frameWidth="578" frameHeight="546"/>
+	<SubTexture name="pico idle instance 10005" x="5405" y="525" width="523" height="542" frameX="-34" frameY="-4" frameWidth="578" frameHeight="546"/>
+	<SubTexture name="pico idle instance 10006" x="5928" y="525" width="513" height="546" frameX="-41" frameY="0" frameWidth="578" frameHeight="546"/>
+	<SubTexture name="pico idle instance 10007" x="6441" y="525" width="513" height="546" frameX="-41" frameY="0" frameWidth="578" frameHeight="546"/>
+	<SubTexture name="pico idle instance 10008" x="6954" y="525" width="513" height="546" frameX="-41" frameY="0" frameWidth="578" frameHeight="546"/>
+	<SubTexture name="pico idle instance 10009" x="7467" y="525" width="513" height="546" frameX="-41" frameY="0" frameWidth="578" frameHeight="546"/>
+	<SubTexture name="pico idle instance 10010" x="4" y="1071" width="512" height="544" frameX="-41" frameY="-2" frameWidth="578" frameHeight="546"/>
+	<SubTexture name="pico idle instance 10011" x="516" y="1071" width="512" height="544" frameX="-41" frameY="-2" frameWidth="578" frameHeight="546"/>
+	<SubTexture name="pico idle instance 10012" x="1028" y="1071" width="513" height="546" frameX="-41" frameY="0" frameWidth="578" frameHeight="546"/>
+	<SubTexture name="pico idle instance 10013" x="1541" y="1071" width="513" height="546" frameX="-41" frameY="0" frameWidth="578" frameHeight="546"/>
+	<SubTexture name="pico idle instance 10014" x="2054" y="1071" width="513" height="546" frameX="-41" frameY="0" frameWidth="578" frameHeight="546"/>
+	<SubTexture name="right instance 10000" x="2567" y="1071" width="465" height="535" frameX="-30" frameY="0" frameWidth="495" frameHeight="535"/>
+	<SubTexture name="right instance 10001" x="3032" y="1071" width="465" height="535" frameX="-30" frameY="0" frameWidth="495" frameHeight="535"/>
+	<SubTexture name="right instance 10002" x="3497" y="1071" width="467" height="535" frameX="-12" frameY="0" frameWidth="495" frameHeight="535"/>
+	<SubTexture name="right instance 10003" x="3964" y="1071" width="467" height="535" frameX="-12" frameY="0" frameWidth="495" frameHeight="535"/>
+	<SubTexture name="right instance 10004" x="4431" y="1071" width="469" height="535" frameX="0" frameY="0" frameWidth="495" frameHeight="535"/>
+	<SubTexture name="right instance 10005" x="4900" y="1071" width="469" height="535" frameX="0" frameY="0" frameWidth="495" frameHeight="535"/>
+	<SubTexture name="right instance 10006" x="5369" y="1071" width="469" height="535" frameX="0" frameY="0" frameWidth="495" frameHeight="535"/>
+	<SubTexture name="right instance 10007" x="5838" y="1071" width="469" height="535" frameX="0" frameY="0" frameWidth="495" frameHeight="535"/>
+	<SubTexture name="right instance 10008" x="6307" y="1071" width="469" height="535" frameX="0" frameY="0" frameWidth="495" frameHeight="535"/>
+	<SubTexture name="right instance 10009" x="6776" y="1071" width="469" height="535" frameX="0" frameY="0" frameWidth="495" frameHeight="535"/>
+	<SubTexture name="up instance 10000" x="7245" y="1071" width="409" height="581" frameX="-19" frameY="0" frameWidth="446" frameHeight="581"/>
+	<SubTexture name="up instance 10001" x="7654" y="1071" width="409" height="581" frameX="-19" frameY="0" frameWidth="446" frameHeight="581"/>
+	<SubTexture name="up instance 10002" x="4" y="1652" width="446" height="540" frameX="0" frameY="-39" frameWidth="446" frameHeight="581"/>
+	<SubTexture name="up instance 10003" x="450" y="1652" width="446" height="540" frameX="0" frameY="-39" frameWidth="446" frameHeight="581"/>
+	<SubTexture name="up instance 10004" x="896" y="1652" width="424" height="561" frameX="-11" frameY="-20" frameWidth="446" frameHeight="581"/>
+	<SubTexture name="up instance 10005" x="1320" y="1652" width="424" height="561" frameX="-11" frameY="-20" frameWidth="446" frameHeight="581"/>
+	<SubTexture name="up instance 10006" x="1744" y="1652" width="424" height="561" frameX="-11" frameY="-20" frameWidth="446" frameHeight="581"/>
+	<SubTexture name="up instance 10007" x="2168" y="1652" width="424" height="561" frameX="-11" frameY="-20" frameWidth="446" frameHeight="581"/>
+	<SubTexture name="up instance 10008" x="2592" y="1652" width="424" height="561" frameX="-11" frameY="-20" frameWidth="446" frameHeight="581"/>
+	<SubTexture name="up instance 10009" x="3016" y="1652" width="424" height="561" frameX="-11" frameY="-20" frameWidth="446" frameHeight="581"/>
+</TextureAtlas>

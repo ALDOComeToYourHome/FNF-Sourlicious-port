@@ -1,0 +1,46 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="sournene placeholder.png">
+	<!-- Created with Adobe Animate version 21.0.5.40714 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="nene brr0000" x="40" y="40" width="701" height="636" frameX="0" frameY="-3" frameWidth="701" frameHeight="640"/>
+	<SubTexture name="nene brr0001" x="781" y="40" width="701" height="636" frameX="0" frameY="-3" frameWidth="701" frameHeight="640"/>
+	<SubTexture name="nene brr0002" x="1522" y="40" width="697" height="640" frameX="-1" frameY="0" frameWidth="701" frameHeight="640"/>
+	<SubTexture name="nene brr0003" x="2259" y="40" width="697" height="640" frameX="-1" frameY="0" frameWidth="701" frameHeight="640"/>
+	<SubTexture name="nene brr0004" x="2996" y="40" width="697" height="637" frameX="-1" frameY="-3" frameWidth="701" frameHeight="640"/>
+	<SubTexture name="nene brr0005" x="3733" y="40" width="697" height="637" frameX="-1" frameY="-3" frameWidth="701" frameHeight="640"/>
+	<SubTexture name="nene brr0006" x="4470" y="40" width="697" height="638" frameX="-1" frameY="-2" frameWidth="701" frameHeight="640"/>
+	<SubTexture name="nene brr0007" x="5207" y="40" width="697" height="638" frameX="-1" frameY="-2" frameWidth="701" frameHeight="640"/>
+	<SubTexture name="nene idle0000" x="5944" y="40" width="699" height="586" frameX="0" frameY="-26" frameWidth="699" frameHeight="613"/>
+	<SubTexture name="nene idle0001" x="6683" y="40" width="699" height="579" frameX="0" frameY="-33" frameWidth="699" frameHeight="613"/>
+	<SubTexture name="nene idle0002" x="7422" y="40" width="695" height="584" frameX="-1" frameY="-29" frameWidth="699" frameHeight="613"/>
+	<SubTexture name="nene idle0003" x="40" y="720" width="695" height="584" frameX="-1" frameY="-29" frameWidth="699" frameHeight="613"/>
+	<SubTexture name="nene idle0004" x="775" y="720" width="695" height="590" frameX="-1" frameY="-23" frameWidth="699" frameHeight="613"/>
+	<SubTexture name="nene idle0005" x="1510" y="720" width="695" height="590" frameX="-1" frameY="-23" frameWidth="699" frameHeight="613"/>
+	<SubTexture name="nene idle0006" x="2245" y="720" width="695" height="601" frameX="-1" frameY="-12" frameWidth="699" frameHeight="613"/>
+	<SubTexture name="nene idle0007" x="2980" y="720" width="695" height="596" frameX="-1" frameY="-17" frameWidth="699" frameHeight="613"/>
+	<SubTexture name="nene idle0008" x="3715" y="720" width="695" height="596" frameX="-1" frameY="-17" frameWidth="699" frameHeight="613"/>
+	<SubTexture name="nene idle0009" x="4450" y="720" width="695" height="596" frameX="-1" frameY="-17" frameWidth="699" frameHeight="613"/>
+	<SubTexture name="nene idle0010" x="5185" y="720" width="695" height="592" frameX="-1" frameY="-21" frameWidth="699" frameHeight="613"/>
+	<SubTexture name="nene idle0011" x="5920" y="720" width="695" height="592" frameX="-1" frameY="-21" frameWidth="699" frameHeight="613"/>
+	<SubTexture name="nene idle0012" x="6655" y="720" width="695" height="591" frameX="-1" frameY="-22" frameWidth="699" frameHeight="613"/>
+	<SubTexture name="nene idle0013" x="7390" y="720" width="695" height="591" frameX="-1" frameY="-22" frameWidth="699" frameHeight="613"/>
+	<SubTexture name="nene idle0014" x="40" y="1361" width="695" height="603" frameX="-1" frameY="-10" frameWidth="699" frameHeight="613"/>
+	<SubTexture name="nene idle0015" x="775" y="1361" width="695" height="609" frameX="-1" frameY="-4" frameWidth="699" frameHeight="613"/>
+	<SubTexture name="nene idle0016" x="1510" y="1361" width="695" height="609" frameX="-1" frameY="-4" frameWidth="699" frameHeight="613"/>
+	<SubTexture name="nene idle0017" x="2245" y="1361" width="695" height="610" frameX="-1" frameY="-3" frameWidth="699" frameHeight="613"/>
+	<SubTexture name="nene idle0018" x="2980" y="1361" width="695" height="610" frameX="-1" frameY="-3" frameWidth="699" frameHeight="613"/>
+	<SubTexture name="nene idle0019" x="3715" y="1361" width="695" height="613" frameX="-1" frameY="0" frameWidth="699" frameHeight="613"/>
+	<SubTexture name="nene idle0020" x="4450" y="1361" width="695" height="609" frameX="-1" frameY="-4" frameWidth="699" frameHeight="613"/>
+	<SubTexture name="nene idle0021" x="5185" y="1361" width="695" height="609" frameX="-1" frameY="-4" frameWidth="699" frameHeight="613"/>
+	<SubTexture name="nene idle0022" x="5920" y="1361" width="695" height="609" frameX="-1" frameY="-4" frameWidth="699" frameHeight="613"/>
+	<SubTexture name="nene idle0023" x="6655" y="1361" width="695" height="601" frameX="-1" frameY="-12" frameWidth="699" frameHeight="613"/>
+	<SubTexture name="nene idle0024" x="7390" y="1361" width="695" height="601" frameX="-1" frameY="-12" frameWidth="699" frameHeight="613"/>
+	<SubTexture name="nene idle0025" x="40" y="2014" width="695" height="594" frameX="-1" frameY="-19" frameWidth="699" frameHeight="613"/>
+	<SubTexture name="nene idle0026" x="775" y="2014" width="695" height="594" frameX="-1" frameY="-19" frameWidth="699" frameHeight="613"/>
+	<SubTexture name="nene laugh0000" x="1510" y="2014" width="699" height="632" frameX="0" frameY="0" frameWidth="699" frameHeight="633"/>
+	<SubTexture name="nene laugh0001" x="2249" y="2014" width="699" height="632" frameX="0" frameY="0" frameWidth="699" frameHeight="633"/>
+	<SubTexture name="nene laugh0002" x="2988" y="2014" width="695" height="629" frameX="-1" frameY="-4" frameWidth="699" frameHeight="633"/>
+	<SubTexture name="nene laugh0003" x="3723" y="2014" width="695" height="629" frameX="-1" frameY="-4" frameWidth="699" frameHeight="633"/>
+	<SubTexture name="nene laugh0004" x="4458" y="2014" width="695" height="625" frameX="-1" frameY="-8" frameWidth="699" frameHeight="633"/>
+	<SubTexture name="nene laugh0005" x="5193" y="2014" width="695" height="625" frameX="-1" frameY="-8" frameWidth="699" frameHeight="633"/>
+</TextureAtlas>
