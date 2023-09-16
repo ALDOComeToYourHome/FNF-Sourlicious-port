@@ -1,0 +1,8 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="pico.png">
+<SubTexture name="bruh0000" x="0" y="0" width="1870" height="1916" frameX="-88" frameY="-84" frameWidth="2000" frameHeight="2000" />
+<SubTexture name="normal0000" x="1870" y="0" width="1679" height="1916" frameX="-171" frameY="-84" frameWidth="2000" frameHeight="2000" />
+<SubTexture name="frown0000" x="3549" y="0" width="1679" height="1916" frameX="-171" frameY="-84" frameWidth="2000" frameHeight="2000" />
+<SubTexture name="pissed0000" x="0" y="1916" width="1679" height="1916" frameX="-171" frameY="-84" frameWidth="2000" frameHeight="2000" />
+<SubTexture name="surprised0000" x="1679" y="1916" width="1870" height="1916" frameX="-88" frameY="-84" frameWidth="2000" frameHeight="2000" />
+</TextureAtlas>

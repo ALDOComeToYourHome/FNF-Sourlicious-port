@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="gf.png">
+<SubTexture name="normal0000" x="0" y="0" width="1604" height="1905" frameX="-157" frameY="-95" frameWidth="2000" frameHeight="2000" />
+<SubTexture name="lookaway0000" x="1604" y="0" width="1604" height="1905" frameX="-157" frameY="-95" frameWidth="2000" frameHeight="2000" />
+<SubTexture name="happy0000" x="3208" y="0" width="1604" height="1905" frameX="-157" frameY="-95" frameWidth="2000" frameHeight="2000" />
+<SubTexture name="mad0000" x="0" y="1905" width="1604" height="1905" frameX="-157" frameY="-95" frameWidth="2000" frameHeight="2000" />
+<SubTexture name="dumb0000" x="1604" y="1905" width="1604" height="1905" frameX="-157" frameY="-95" frameWidth="2000" frameHeight="2000" />
+<SubTexture name="sad0000" x="3208" y="1905" width="1604" height="1905" frameX="-157" frameY="-95" frameWidth="2000" frameHeight="2000" />
+</TextureAtlas>

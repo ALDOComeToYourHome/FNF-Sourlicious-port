@@ -1,0 +1,8 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="bf.png">
+<SubTexture name="normal0000" x="0" y="0" width="1307" height="1660" frameX="-338" frameY="-340" frameWidth="2000" frameHeight="2000" />
+<SubTexture name="derp0000" x="1307" y="0" width="1307" height="1660" frameX="-338" frameY="-340" frameWidth="2000" frameHeight="2000" />
+<SubTexture name="uhh0000" x="2614" y="0" width="1307" height="1660" frameX="-338" frameY="-340" frameWidth="2000" frameHeight="2000" />
+<SubTexture name="disgusted0000" x="0" y="1660" width="1307" height="1660" frameX="-338" frameY="-340" frameWidth="2000" frameHeight="2000" />
+<SubTexture name="dumb0000" x="1307" y="1660" width="1307" height="1660" frameX="-338" frameY="-340" frameWidth="2000" frameHeight="2000" />
+</TextureAtlas>
